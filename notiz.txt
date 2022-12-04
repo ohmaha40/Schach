@@ -1,0 +1,7 @@
+#todo: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+#todo: Die erste Gruppe beschreibt die Positionen der Figuren auf dem Brett.
+#todo: Dies geschieht reihenweise von oben links (Feld a8) bis unten rechts
+#todo: (Feld h1). Jede Reihe wird durch einen Schrägstrich von der nächsten
+#todo: getrennt.
+#todo: Jede Reihe besteht aus Buchstaben für die Figuren und Zahlen
+#todo: für die Anzahl der Leerfelder, die die Aufstellung in dieser Zeile von links (a-Linie) nach rechts angeben. Mehrere aufeinanderfolgende leere Felder in derselben Zeile müssen durch eine einzige Ziffer (1 bis 8) angegeben werden. Ein Großbuchstabe bezeichnet eine weiße und ein Kleinbuchstabe eine schwarze Figur, wobei die Abkürzungen der englischen Bezeichnungen verwendet werden („r“ = Rook (Turm), „n“ = Knight (Springer), „b“ = Bishop (Läufer), „q“ = Queen (Dame), „k“ = King (König), „p“ = Pawn (Bauer)). Die Summe der Figuren und Leerfelder in jeder Reihe muss immer gleich der Zahl der Linien sein, also 8 bei einem Standard-Schachbrett.
